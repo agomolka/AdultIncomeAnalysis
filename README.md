@@ -12,7 +12,7 @@ I collected the data from the UCI Machine Learning repository.
 * k-Nearest Neighbours
 * Support Vector Machine
 
-My analysis show that *Marital status*, *Relationship* and *Capital Gain* have the biger importance in income prediction.
+My analysis show that *Marital status*, *Relationship* and *Capital Gain* have the biger importance in income prediction.<br>
 ![](https://github.com/axrozwadowska/Adult_Income_Analysis/blob/master/images/wordcloud.png)
 
 ### ROC Curve of my models: 
