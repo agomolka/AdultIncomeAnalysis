@@ -15,4 +15,4 @@ I collected the data from the UCI Machine Learning repository.
 My analysis show that *Marital status*, *Relationship* and *Capital Gain* have the biger importance in income prediction.
 
 ### ROC Curve of my models: 
-![](https://github.com/axrozwadowska/Adult_Income_Analysis/blob/master/ROC.png)
+![](https://github.com/axrozwadowska/Adult_Income_Analysis/blob/master/images/ROC.png)
