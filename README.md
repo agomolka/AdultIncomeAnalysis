@@ -1,4 +1,4 @@
-# Adult Income Analysis 💰 🧮
+# 📈 Adult Income Analysis 💰 🧮
 ## Prediction whether income exceeds $50K/yr based on census data. <br> I collected the data from the UCI Machine Learning repository.
 
 ### Classification Models Used:
