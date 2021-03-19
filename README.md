@@ -5,12 +5,12 @@ I collected the data from the UCI Machine Learning repository.
 
 ### 📈 Classification Models Used:
 
-💥 Decision Tree
-💥 Linear Regression
-💥 Logistic Regression
-💥 Random Forests
-💥 k-Nearest Neighbours
-💥 Support Vector Machine
+* 💥 Decision Tree
+* 💥 Linear Regression
+* 💥 Logistic Regression
+* 💥 Random Forests
+* 💥 k-Nearest Neighbours
+* 💥 Support Vector Machine
 
 This picture showing feature importance in income prediction <br>
 ![](https://github.com/axrozwadowska/Adult_Income_Analysis/blob/master/images/wordcloud.png)
