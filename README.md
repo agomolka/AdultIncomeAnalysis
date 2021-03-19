@@ -4,7 +4,7 @@
 ### Classification Models Used:
 
 🤖 Decision Tree <br>
-🤖 Linear Regression 💥 as a Classifier 💥 <br>
+🤖 Linear Regression 💥 as a classifier 💥 <br>
 🤖 Logistic Regression <br>
 🤖 Random Forests <br>
 🤖 k-Nearest Neighbours <br>
