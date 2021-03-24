@@ -17,4 +17,4 @@
 ![](https://github.com/axrozwadowska/Adult_Income_Analysis/blob/master/images/ROC.png)
 
 ####With Column Transformer
-![](https://github.com/axrozwadowska/Adult_Income_Analysis/blob/master/images/ROC.png)
+![](https://github.com/axrozwadowska/Adult_Income_Analysis/blob/master/images/ROC_ColumnTransformer.png)
