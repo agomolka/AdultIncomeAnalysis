@@ -15,3 +15,6 @@
 
 ### ROC Curve of my models: 
 ![](https://github.com/axrozwadowska/Adult_Income_Analysis/blob/master/images/ROC.png)
+
+####With Column Transformer
+![](https://github.com/axrozwadowska/Adult_Income_Analysis/blob/master/images/ROC.png)
